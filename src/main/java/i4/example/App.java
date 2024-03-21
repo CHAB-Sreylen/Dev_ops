@@ -1,4 +1,4 @@
-gpackage i4.example;
+package i4.example;
 
 /**
  * Hello world!
